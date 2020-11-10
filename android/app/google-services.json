@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "67989510858",
+    "firebase_url": "https://amplify-f78bf.firebaseio.com",
+    "project_id": "amplify-f78bf",
+    "storage_bucket": "amplify-f78bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67989510858:android:32fa428ce46ec04b747233",
+        "android_client_info": {
+          "package_name": "com.cryogenicplanet.amplify7131"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67989510858-iu7hqvgpnbc0qanrbicdp9t3b4qb6ftu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDScNAS3J4sye0I2D7rJybbDvsMtHYihvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67989510858-iu7hqvgpnbc0qanrbicdp9t3b4qb6ftu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

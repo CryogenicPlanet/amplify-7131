@@ -1,0 +1,23 @@
+{
+    "auth": {
+        "cognito6239ddaf": {
+            "service": "Cognito",
+            "serviceType": "managed",
+            "providerPlugin": "awscloudformation"
+        }
+    },
+    "analytics": {
+        "amplify7131": {
+            "service": "Pinpoint",
+            "providerPlugin": "awscloudformation"
+        }
+    },
+    "notifications": {
+        "amplify7131KZ9Cq": {
+            "service": "Pinpoint",
+            "channels": [
+                "FCM"
+            ]
+        }
+    }
+}
